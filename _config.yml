@@ -1,0 +1,41 @@
+title: 负面观察清单 | Negative-Observing.List
+description: 我们做大多数投资者不做的事。
+social_link: ''
+social_username: ''
+github_repo: ''
+github_username: NO.List Research
+theme_color: black
+remote_theme: internet-de-france/swiss
+baseurl: /negative_list
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
+    values:
+      categories: ''
+remote_theme_layouts:
+  - ''
+  - default
+  - page
+  - post
+  - home
+  - category_index
+social_links:
+  - twitter
+  - instagram
+  - medium
+  - dribbble
+theme_colors:
+  - black
+  - blue
+  - gray
+  - magenta
+  - orange
+  - red
+  - white
+  - yellow
